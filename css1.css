@@ -1,0 +1,26 @@
+
+h1{
+	color:cyan;
+	text-align:center;
+	font-size: 250%;
+  }
+h2{
+	color:black;
+	text-align:center;
+	font-size: 200%;
+}
+p {
+  color: #28b463;
+  font-family: verdana;
+  font-size: 160%;
+}
+div{
+	display-block;
+	background-color:#DAF7A6;
+	width:600px;
+	border:10px solid red;
+	padding:70px;
+	margin:auto;
+	text-align:center;
+	}
+
